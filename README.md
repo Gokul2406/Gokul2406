@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Gokul Gokul2406](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+
+
 - 🔭 I’m currently working on RecipieBook
 - 🌱 I’m currently learning PERN Stack, Golang
 - 👯 I’m looking to collaborate on Golang, React projects and stuff
