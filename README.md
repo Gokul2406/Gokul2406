@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-![Gokul Gokul2406](https://github-readme-stats.vercel.app/api?username=gokul2406&show_icons=true&theme=nightowl)
 
 
 - 🔭 I’m currently working on Passafe-TUI
